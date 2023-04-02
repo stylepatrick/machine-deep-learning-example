@@ -151,3 +151,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 *.gz
+lstm-embedding-layer-text-style-generation-by-word/faust.model/fingerprint.pb
+lstm-embedding-layer-text-style-generation-by-word/faust.model/keras_metadata.pb
+lstm-embedding-layer-text-style-generation-by-word/faust.model/saved_model.pb
+lstm-embedding-layer-text-style-generation-by-word/faust.model/variables/variables.data-00000-of-00001
+lstm-embedding-layer-text-style-generation-by-word/faust.model/variables/variables.index
